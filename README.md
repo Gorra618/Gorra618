@@ -7,7 +7,7 @@
 My name is Nico and i'm currently studying everything about Frontend & Backend. I usually work with Vite / React & am currently learning to work with MySQL & MariaDB
 </p>
 <p>
-My goal is to learn more about programming and learn astrophysics to work in astronomy companies like Nasa, Starlink or any astronomical observatory (that's my distant dream).
+My goal is to learn more about programming and learn astrophysics to work in astronomy companies like Nasa, Starlink, CERN or any astronomical observatory (that's my distant dream).
 </p>
 
 ---
