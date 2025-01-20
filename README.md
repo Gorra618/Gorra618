@@ -4,7 +4,7 @@
 
  ### About me: 
 <p>
-My name is Nico and i'm currently studying everything about Frontend & Backend. I usually work with Vite / React & am currently learning to work with MySQL & MariaDB
+My nickname is Gorra and i'm currently studying everything about Frontend & Backend. I usually work with Vite / React & am currently learning to work with MySQL & MariaDB
 </p>
 <p>
 My goal is to learn more about programming and learn astrophysics to work in astronomy companies like Nasa, Starlink, CERN or any astronomical observatory (that's my distant dream).
@@ -18,8 +18,8 @@ My goal is to learn more about programming and learn astrophysics to work in ast
 <table align="center"> 
 <tr border="none">
   
-[![](https://github-readme-stats.vercel.app/api?username=NikoStasyszyn&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/NikoStasyszyn)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=NikoStasyszyn&theme=tokyonight&hide_border=true&locale=en)](https://github.com/NikoStasyszyn)
+[![](https://github-readme-stats.vercel.app/api?username=Gorra618&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Gorra618)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Gorra618&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Gorra618)
 </tr>
 </table>
 
