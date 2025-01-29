@@ -7,7 +7,7 @@
 My nickname is Gorra and i'm currently studying everything about Frontend & Backend. I usually work with Vite / React & am currently learning to work with MySQL & MariaDB
 </p>
 <p>
-My goal is to learn more about programming and learn astrophysics to work in astronomy companies like Nasa, Starlink, CERN or any astronomical observatory (that's my distant dream).
+My goal is to learn more about programming and learn astrophysics or particle science to work in companies like Nasa, Starlink or CERN (that's my distant dream).
 </p>
 
 ---
