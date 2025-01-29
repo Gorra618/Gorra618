@@ -12,7 +12,7 @@ My goal is to learn more about programming and learn astrophysics to work in ast
 
 ---
 
-<img alt="GIF" src="https://media1.tenor.com/m/TgVgrdOEIIYAAAAd/shadows.gif" width="1100px"/>
+<img alt="GIF" src="https://cdn.pfps.gg/banners/3373-guts-v-s-griffith.gif" width="1100px"/>
 
 ## Stats 
 <table align="center"> 
