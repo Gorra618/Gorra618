@@ -4,10 +4,7 @@
 
  ### About me: 
 <p>
-My nickname is Gorra and i'm currently studying everything about Frontend & Backend. I usually work with Vite / React & am currently learning to work with MySQL & MariaDB
-</p>
-<p>
-My goal is to learn more about programming and learn astrophysics or particle science to work in companies like Nasa, Starlink or CERN (that's my distant dream).
+I'm Nicolas Stasyszyn, and I'm currently studying programming and telecommunications. I'm familiar with JavaScript and Python, and I'm learning to work with MySQL.
 </p>
 
 ---
