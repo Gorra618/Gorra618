@@ -12,8 +12,6 @@ My goal is to learn more about programming and learn astrophysics or particle sc
 
 ---
 
-<img alt="GIF" src="https://cdn.pfps.gg/banners/3373-guts-v-s-griffith.gif" width="1100px"/>
-
 ## Stats 
 <table align="center"> 
 <tr border="none">
