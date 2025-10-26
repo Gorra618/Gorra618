@@ -13,8 +13,9 @@ I'm Nicolas Stasyszyn, and I'm currently studying programming and telecommunicat
 <table align="center"> 
 <tr border="none">
   
-[![](https://github-readme-stats.vercel.app/api?username=Gorra618&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Gorra618)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Gorra618&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Gorra618)
+![Gorra618's Stats](https://github-readme-stats.vercel.app/api?username=Gorra618&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Gorra618's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gorra618&theme=dark&hide_border=true)
+![Gorra618's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gorra618&theme=dark&show_icons=true&hide_border=true&layout=compact)
 </tr>
 </table>
 
