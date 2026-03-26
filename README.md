@@ -9,15 +9,6 @@ I'm Nicolas Stasyszyn, and I'm currently studying programming and telecommunicat
 
 ---
 
-## Stats 
-<table align="center"> 
-<tr border="none">
-  
-![Gorra618's Stats](https://github-readme-stats.vercel.app/api?username=Gorra618&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![Gorra618's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gorra618&theme=dark&show_icons=true&hide_border=true&layout=compact)
-</tr>
-</table>
-
 ## <b> Tools & Languages</b>
 <br>
 
